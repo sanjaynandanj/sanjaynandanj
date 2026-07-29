@@ -48,7 +48,7 @@ Connect With Me 📫
 </summary>
 <br>
 
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:info@marginx.ca)
+[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:work@sanjaynanda.dev)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjaynanda.dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjaynandanj)
 
