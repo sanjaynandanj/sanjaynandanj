@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="55" height="55" />  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Sanjay%20Nandan)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Sanjay%20Nanda)
 
 - 💻 Full Stack Developer | AI | Crypto
 - 📍 Chennai, India
